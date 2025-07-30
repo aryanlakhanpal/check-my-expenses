@@ -21,3 +21,6 @@ Database: MongoDB / SQLite / localStorage
 
 🎯 Purpose
 To encourage financial discipline by giving users clear visibility into their spending habits, and offering insights that promote mindful money management.
+
+
+https://github.com/user-attachments/assets/b8579b05-c9f7-40da-89f2-5960fa2b52be
